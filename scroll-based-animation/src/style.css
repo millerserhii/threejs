@@ -4,11 +4,11 @@
     padding: 0;
 }
 
-html,
-body
-{
-    overflow: hidden;
-}
+/* html, */
+/* body */
+/* { */
+    /* overflow: hidden; */
+/* } */
 
 .webgl
 {
@@ -18,6 +18,9 @@ body
     outline: none;
 }
 
+html {
+    background: #1e1a20;
+}
 
 .section
 {
